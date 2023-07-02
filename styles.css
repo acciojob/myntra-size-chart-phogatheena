@@ -1,2 +1,31 @@
-
 /* Your CSS Code here. */
+
+table,tr,td,th{
+	border:1px solid black;
+	border-collapse:collapse;
+}
+table{
+	width:100%;
+}
+/* .one, .two,.three
+{
+	text-align:right;
+} */
+thead{
+	background-color:orange;
+	color:white;
+}
+.one
+{
+	background-color:lightsalmon;
+	color:white;
+}
+.two
+{
+	background-color:beige;
+}
+.three
+{
+	background-color:lightgoldenrodyellow;
+}
+
